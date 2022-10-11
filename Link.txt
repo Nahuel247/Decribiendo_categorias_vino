@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+
+https://towardsdatascience.com/best-practices-for-visualizing-your-cluster-results-20a3baac7426
