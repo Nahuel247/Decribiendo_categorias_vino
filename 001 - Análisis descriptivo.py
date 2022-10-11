@@ -1,10 +1,10 @@
 ###################################################################################
-#             PROYECTO: MODELO PARA DETERMINAR LA CATEGORÍA DE UN VINO
-#                             CON MACHINE LEARNING
+#                ANÁLISIS DESCRIPTIVO A UN SET DE VARIABLES
 ###################################################################################
 
 #######################################
-# Autor: Nahuel Canelo
+# Autor: Konstantin Rink
+# Adaptación: Nahuel Canelo (Yo xD)
 # Correo: nahuelcaneloaraya@gmail.com
 #######################################
 
