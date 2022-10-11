@@ -14,6 +14,8 @@ Una forma muy simple de analizar los datos es a través del uso de boxplot, a co
 Otra forma de analizar las categorías es a través de la desviación porcentual de cada variable con respecto a la media global. A continuación, se muestra los resultados:
 [![Figure-2.png](https://i.postimg.cc/5t767SDB/Figure-2.png)](https://postimg.cc/949mzZm0)
 
+
 # Gráfico de radar
 Otra forma propuesta para analizar los datos es a través del gráfico de radar, que nos permite visualizar qué tan representada estaba cierta variable en cada categoría.
-[Figure-3.png](https://postimg.cc/hfqc3f0R)
+[![Figure-3.png](https://i.postimg.cc/SNnRR92R/Figure-3.png)](https://postimg.cc/hfqc3f0R)
+
