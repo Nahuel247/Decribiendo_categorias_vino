@@ -1,4 +1,4 @@
-# Descriviendo categorias vino
+# Describiendo categorias vino
 
 Muchas veces nos toca trabajar con datos que han sido segmentados en categorías, esto puede deberse por la implementación de una metodología tipo Kmens, segmentación de la variable respuesta, por criterio experto, etc., independiente de su origen, cabe la pregunta ¿Qué atributos presenta cada una de las categorías que las hace única? 
 A lo largo de este repositorio encontrarán la implementación de distintas técnicas para caracterizar cada una de las categorías existentes en un set de datos.
